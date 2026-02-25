@@ -21,7 +21,7 @@ exclude = '''
 
 [tool.poetry]
 name = "pyexif"
-version = "1.0.0"
+version = "1.0.1"
 description = "Python wrapping for the exiftool library"
 authors = ["EdLeafe <ed@leafe.com>"]
 license = "Apache 2.0"

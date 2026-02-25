@@ -9,9 +9,9 @@ in the README file.
 
 setup(
     name="pyexif",
-    version="0.9.0",
+    version="1.0.1",
     url="https://github.com/EdLeafe/pyexif",
-    download_url = "https://github.com/EdLeafe/pyexif/archive/0.9.0.tar.gz",
+    download_url = "https://github.com/EdLeafe/pyexif/archive/1.0.0.tar.gz",
     author="Ed Leafe",
     author_email="ed@leafe.com",
     description="Python module to read/write EXIF image data",
